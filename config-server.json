@@ -1,0 +1,16 @@
+{
+  "Application": {
+    "Type": "SERVER"
+  },
+  "Server" :{
+    "Host": "127.0.0.1",
+    "Port": "666"
+  },
+
+  "Thread" : {
+    "Name" : "ThreadStatServer.txt"
+  },
+  "Archive": {
+    "Name": "C:/TestVCS/Server/"
+  }
+}

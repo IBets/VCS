@@ -1,0 +1,9 @@
+{
+  "Application": {
+    "Type": "MONITOR"
+  },
+
+  "Thread" : {
+    "Name" : "ThreadStatServer.txt"
+  }
+}
